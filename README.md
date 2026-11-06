@@ -1,4 +1,4 @@
-<!-- HEADER -->
+<!-- ═══════════════ HEADER ═══════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Vighnesh&fontAlign=50&fontAlignY=35&fontSize=65&fontColor=e9d5ff&desc=AI%2FML%20%7C%20Curiosity%20%7C%20Creation&descAlignY=58&descSize=17&color=0:09090f,50:1e1338,100:3b1e69" width="100%"/>
 
@@ -10,27 +10,30 @@
 
 <br/>
 
-<!-- ABOUT -->
+<!-- ═══════════════ ABOUT ═══════════════ -->
 
 <h3 align="center">⟡ &nbsp; about me</h3>
 
 <div align="center">
 
 ```text
-Vighnesh      /  CSBS Student
-puffydoik     /  Gamer · Online Alias
-interests     /  AI · ML · Technology
+name          /  Vighnesh
+alias         /  puffydoik
+studying      /  Computer Science & Business Systems
+interests     /  AI · ML · Football
 currently     /  Learning & Building
 mindset       /  Curious by nature
 ```
 
 *Learning the art of making machines think.*
 
+⚽ Football enthusiast &nbsp; · &nbsp; 🤖 AI/ML explorer
+
 </div>
 
 <br/>
 
-<!-- TECH -->
+<!-- ═══════════════ TECH ═══════════════ -->
 
 <h3 align="center">⟡ &nbsp; tech stack</h3>
 
@@ -42,29 +45,33 @@ mindset       /  Curious by nature
 
 <br/>
 
-<!-- STATS -->
+<!-- ═══════════════ STATS ═══════════════ -->
 
 <h3 align="center">⟡ &nbsp; github activity</h3>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Puffydoik&show_icons=true&hide_border=true&bg_color=09090f&title_color=c4b5fd&icon_color=a78bfa&text_color=d4d4d8&ring_color=8b5cf6"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Puffydoik&show_icons=true&hide_border=true&bg_color=09090f&title_color=c4b5fd&icon_color=a78bfa&text_color=d4d4d8&ring_color=8b5cf6" width="49%"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puffydoik&layout=compact&hide_border=true&bg_color=09090f&title_color=c4b5fd&text_color=d4d4d8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puffydoik&layout=compact&hide_border=true&bg_color=09090f&title_color=c4b5fd&text_color=d4d4d8" width="49%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Puffydoik&hide_border=true&background=09090f&ring=8b5cf6&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=d4d4d8&dates=71717a"/>
+<img src="https://streak-stats.demolab.com?user=Puffydoik&hide_border=true&background=09090f&ring=8b5cf6&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=d4d4d8&dates=71717a" width="70%"/>
 
 </div>
 
 <br/>
 
-<!-- FOOTER -->
+<!-- ═══════════════ FOOTER ═══════════════ -->
 
 <div align="center">
 
 `puffydoik.exe` &nbsp; ▸ &nbsp; *currently evolving*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:3b1e69,100:09090f" width="100%"/>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:3b1e69,100:09090f" width="100%"/>
 
